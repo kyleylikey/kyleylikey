@@ -8,8 +8,8 @@ Here are some ideas to get you started:
 
 -->
 
-- 🔭 I’m currently working on a project for a Local Government Unit
-- 🌱 I’m currently learning Software Engineering and Robotics
+- 🌳 I’m currently working on a project for Forest Monitoring 
+- 🌱 I’m currently learning Internet of Things and Robotics
 - 👯 I’m looking to collaborate on creating systems that will make the world a better place
 - 🤔 I’m looking for help with using different frameworks for CSS, JS, and PHP
 - 💬 Please give me comments on how to improve the systems I created
